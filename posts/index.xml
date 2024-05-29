@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>📚posts on Echo&#39;s Blog</title>
-    <link>https://xyming108.github.io/posts/</link>
+    <link>https://zhuangxianyun.github.io/posts/</link>
     <description>Recent content in 📚posts on Echo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 May 2024 00:18:23 +0200</lastBuildDate><atom:link href="https://xyming108.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 May 2024 00:18:23 +0200</lastBuildDate><atom:link href="https://zhuangxianyun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

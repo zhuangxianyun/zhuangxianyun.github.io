@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Echo&#39;s Blog</title>
-    <link>https://xyming108.github.io/</link>
+    <link>https://zhuangxianyun.github.io/</link>
     <description>Recent content on Echo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 May 2024 00:18:23 +0200</lastBuildDate><atom:link href="https://xyming108.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 May 2024 00:18:23 +0200</lastBuildDate><atom:link href="https://zhuangxianyun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business idea</title>
-      <link>https://xyming108.github.io/posts/business/business/</link>
+      <link>https://zhuangxianyun.github.io/posts/business/business/</link>
       <pubDate>Sun, 05 May 2024 00:18:23 +0200</pubDate>
       
-      <guid>https://xyming108.github.io/posts/business/business/</guid>
+      <guid>https://zhuangxianyun.github.io/posts/business/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>https://xyming108.github.io/posts/life/life/</link>
+      <link>https://zhuangxianyun.github.io/posts/life/life/</link>
       <pubDate>Sun, 05 May 2024 00:18:15 +0200</pubDate>
       
-      <guid>https://xyming108.github.io/posts/life/life/</guid>
+      <guid>https://zhuangxianyun.github.io/posts/life/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Read</title>
-      <link>https://xyming108.github.io/posts/read/read/</link>
+      <link>https://zhuangxianyun.github.io/posts/read/read/</link>
       <pubDate>Sun, 05 May 2024 00:18:06 +0200</pubDate>
       
-      <guid>https://xyming108.github.io/posts/read/read/</guid>
+      <guid>https://zhuangxianyun.github.io/posts/read/read/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://xyming108.github.io/posts/tech/tech/</link>
+      <link>https://zhuangxianyun.github.io/posts/tech/tech/</link>
       <pubDate>Sun, 05 May 2024 00:17:58 +0200</pubDate>
       
-      <guid>https://xyming108.github.io/posts/tech/tech/</guid>
+      <guid>https://zhuangxianyun.github.io/posts/tech/tech/</guid>
       <description>Tech code</description>
     </item>
     
     <item>
       <title>Redis scan</title>
-      <link>https://xyming108.github.io/posts/tech/tech1/</link>
+      <link>https://zhuangxianyun.github.io/posts/tech/tech1/</link>
       <pubDate>Tue, 30 Apr 2024 15:55:23 +0200</pubDate>
       
-      <guid>https://xyming108.github.io/posts/tech/tech1/</guid>
+      <guid>https://zhuangxianyun.github.io/posts/tech/tech1/</guid>
       <description>scan</description>
     </item>
     
     <item>
       <title>🤝links</title>
-      <link>https://xyming108.github.io/links/</link>
+      <link>https://zhuangxianyun.github.io/links/</link>
       <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
       
-      <guid>https://xyming108.github.io/links/</guid>
+      <guid>https://zhuangxianyun.github.io/links/</guid>
       <description>Echo&amp;#39;s Blog A blog documenting technology, reading, life, and business ideas. 👉Friendls Link Format Name: XXX&amp;rsquo;s Blog URL： https://www.XXXblog.cn Icon： https://www.XXXblog.cn/img/Q.gif Description： A blog documenting XXX 👉Exchange Requirements Following the principle of mutual link exchange, regular article updates, minimal advertisement, and personal description limited to 15 characters.</description>
     </item>
     
     <item>
       <title>🙋‍♀️About</title>
-      <link>https://xyming108.github.io/about/</link>
+      <link>https://zhuangxianyun.github.io/about/</link>
       <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
       
-      <guid>https://xyming108.github.io/about/</guid>
+      <guid>https://zhuangxianyun.github.io/about/</guid>
       <description>About me Name: Echo Occupation: Programmer Hobby: Diving, Guitar, Horse Riding</description>
     </item>
     
