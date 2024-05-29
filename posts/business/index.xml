@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>💼 business on Echo&#39;s Blog</title>
-    <link>http://localhost:1313/posts/blog/</link>
+    <link>https://xyming108.github.io/posts/business/</link>
     <description>Recent content in 💼 business on Echo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Sun, 05 May 2024 00:18:23 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 05 May 2024 00:18:23 +0200</lastBuildDate><atom:link href="https://xyming108.github.io/posts/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/posts/blog/blog/</link>
+      <title>Business idea</title>
+      <link>https://xyming108.github.io/posts/business/business/</link>
       <pubDate>Sun, 05 May 2024 00:18:23 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/blog/blog/</guid>
+      <guid>https://xyming108.github.io/posts/business/business/</guid>
       <description></description>
     </item>
     
