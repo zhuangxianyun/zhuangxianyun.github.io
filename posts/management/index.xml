@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>💪 management on Echo&#39;s Blog</title>
+    <link>https://zhuangxianyun.github.io/posts/management/</link>
+    <description>Recent content in 💪 management on Echo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 May 2024 00:17:58 +0200</lastBuildDate><atom:link href="https://zhuangxianyun.github.io/posts/management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> management</title>
+      <link>https://zhuangxianyun.github.io/posts/management/tech/</link>
+      <pubDate>Sun, 05 May 2024 00:17:58 +0200</pubDate>
+      
+      <guid>https://zhuangxianyun.github.io/posts/management/tech/</guid>
+      <description>Tech code</description>
+    </item>
+    
+  </channel>
+</rss>
